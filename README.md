@@ -33,6 +33,8 @@ for responsiveness through mobile-first approach.
 
 
 
+<img width="911" alt="Screenshot 2022-10-24 035036" src="https://user-images.githubusercontent.com/94085980/197511090-eb3607d3-07df-4669-b3eb-6a353b9c8ee0.png">
+
 
 
 
